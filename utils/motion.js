@@ -1,3 +1,5 @@
+/* eslint-disable semi */
+/* eslint-disable comma-dangle */
 export const navVariants = {
   hidden: {
     opacity: 0,
