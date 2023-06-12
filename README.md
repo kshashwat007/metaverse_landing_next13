@@ -1,4 +1,11 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is inspired from the Metaverse video from "JavaScript Mastery" YT Channel's video. 
+
+Figma Design File: https://www.figma.com/file/EyzNoOFak1Nb1bBx9ZKI7E/Modern-UI%2FUX-Framer-Motion?type=design&node-id=1-4&t=fsIEYfe9iuIy86uQ-0
+
+Tech Stack:
+* Nextjs
+* tailwindcss
 
 ## Getting Started
 
